@@ -1,0 +1,20 @@
+/* src/components/PurchasesList.css */
+.purchases-list {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .purchases-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .purchases-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .purchases-list li {
+    margin-bottom: 5px;
+  }
+  

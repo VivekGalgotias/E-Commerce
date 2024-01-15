@@ -1,0 +1,31 @@
+/* src/components/RefundProduct.css */
+.refund-product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .refund-product h2 {
+    margin-bottom: 10px;
+  }
+  
+  .refund-product label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .refund-product input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .refund-product button {
+    background-color: #e74c3c;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
